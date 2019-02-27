@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace NetCore.SuperMarket.API.Domain.Models
 {
     public class Category
